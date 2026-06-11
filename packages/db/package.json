@@ -1,0 +1,18 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "@libsql/client": "^0.17.3",
+    "bcryptjs": "^3.0.3",
+    "drizzle-orm": "^0.45.2",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/uuid": "^10.0.0",
+    "drizzle-kit": "^0.20.14"
+  }
+}
