@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { LANDING_COPY } from '../copy';
+import { LANDING_COPY } from './copy';
 
 export default function LandingMountJuliet() {
   return (

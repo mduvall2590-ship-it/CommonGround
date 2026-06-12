@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import Card from '../components/Card';
-import Button from '../components/Button';
-import { LANDING_COPY } from '../copy';
+import Card from './Card';
+import Button from './Button';
+import { LANDING_COPY } from './copy';
 
 export default function LandingFeatures() {
   return (

@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import SignupForm from '../components/SignupForm';
-import { LANDING_COPY } from '../copy';
+import SignupForm from './SignupForm';
+import { LANDING_COPY } from './copy';
 
 export default function LandingSignup() {
   return (

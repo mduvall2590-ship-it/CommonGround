@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Button from './Button';
-import { LANDING_COPY } from '../copy';
+import { LANDING_COPY } from './copy';
 
 export default function SignupForm() {
   const [formData, setFormData] = useState({

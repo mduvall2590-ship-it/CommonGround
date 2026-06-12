@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import Button from '../components/Button';
-import { LANDING_COPY } from '../copy';
+import Button from './Button';
+import { LANDING_COPY } from './copy';
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
